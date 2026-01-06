@@ -12,3 +12,4 @@ C:\.NET\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
 C:\.NET\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
 C:\.NET\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
 C:\.NET\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll
+C:\.NET\HolaMundo\obj\Debug\net9.0\HolaMundo.sourcelink.json
